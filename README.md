@@ -1,2 +1,3 @@
 # first_git
-This my first git repository
+This is my first git repository . 
+Author - Bhushan Mankar 
